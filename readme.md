@@ -4,14 +4,17 @@ Program untuk mengganti huruf dengan huruf lainnya pada kalimat dengan menggunak
 Contoh masukkan (input) dan (output) dari Problem ini adalah sebagai berikut:
 
 ```
-
+Masukkan sebuah kalimat : SAYA sedang belajar pemrograman
+Huruf yang dicari : a
+Huruf pengganti : e
+Hasil Replace : SeYe sedeng belejer pemrogremen
 ```
 
 Ouput :
 ```
-Hasil : 11
+Hasil Replace : SeYe sedeng belejer pemrogremen
 ```
 ## How To Run
-File Program :  </br>
-Compile :  </br>
-Run :  </br>
+File Program : replaceAlphabet.c </br>
+Compile : gcc -o replaceAlphabet replaceAlphabet.c </br>
+Run : ./replaceAlphabet </br>
